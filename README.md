@@ -1,0 +1,1 @@
+# study_omniauth_without_devise
